@@ -7,5 +7,5 @@ include_footer: false
 
 ## Favicon
 
-You can replace the default favicon by adding your own to `static/images/favicon.png`.
+You can replace the default favicon by adding your own to `static/images/favicon.ico`.
 As for now, only pngs are possible.
